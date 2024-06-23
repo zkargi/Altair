@@ -1,5 +1,5 @@
 # Altair
-Sahte bir uygulama aracılığıyla acılan ve bilgisayardaki belli dosyaları şifreleyen virüs
+Bir uygulama aracılığıyla açılan ve bilgisayardaki belli dosyaları şifreleyen virüs
 
 Proje Yapım Aşamaları:
 1-Bilgisayarda istediğimiz uzantılara sahip dosyaları taramak bunları kaydetmek 
